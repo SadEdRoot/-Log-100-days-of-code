@@ -14,3 +14,6 @@ Busy day. could only do a little work. I hope there will be more tomorrow.
 ### R1.D4
 Added the output of one more field to the layout. I checked the units for new updates, rewrote several units.
 A bit, but satisfied.
+
+### R1.D5
+The easy day just a little theory. Work with string in Python.
