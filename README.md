@@ -17,3 +17,6 @@ A bit, but satisfied.
 
 ### R1.D5
 The easy day just a little theory. Work with string in Python.
+
+### R1.D6
+Today I got to tuples and lists in python. Different from JS and confusing. Plus refreshed memory on SQL.
