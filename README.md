@@ -20,3 +20,6 @@ The easy day just a little theory. Work with string in Python.
 
 ### R1.D6
 Today I got to tuples and lists in python. Different from JS and confusing. Plus refreshed memory on SQL.
+
+### R1.D7
+Started rewriting units in HQ Builder
