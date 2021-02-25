@@ -25,4 +25,13 @@ Today I got to tuples and lists in python. Different from JS and confusing. Plus
 Started rewriting units in HQ Builder
 
 ### R1.D8
-Studied tuples and lists for python today. in general, the whole week was very unsuitable for the test. Hope the next one is better.
+Studied tuples and lists for python today. in general, the whole week was very unsuitable for the test. Hope the next one is better
+
+### R1.D9
+Изучил теорию по функциям в питоне часть 1. Остались генераторы и пр.
+
+### R1.D10
+Закончил 19 урок по CRM
+
+### R1.D11
+Начал 20 урок по CRM. Углубился в тему метатегов
