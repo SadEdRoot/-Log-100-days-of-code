@@ -34,4 +34,19 @@ Studied tuples and lists for python today. in general, the whole week was very u
 Закончил 19 урок по CRM
 
 ### R1.D11
-Начал 20 урок по CRM. Углубился в тему метатегов
+Начал 20 урок по CRM. Углубился в тему метатегов.
+
+### R1.D12
+Продолжаем тему метатегов и Vue.
+
+### R1.D13
+Deploy on firebase.
+
+### R1.D14
+Update currency API on VueCRM
+
+### R1.D15
+Localization Ru-En.
+
+### R1.D16
+Finished VueCRM project
