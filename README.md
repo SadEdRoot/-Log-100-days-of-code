@@ -50,3 +50,15 @@ Localization Ru-En.
 
 ### R1.D16
 Finished VueCRM project
+
+### R1.D17
+doing CSS exersice
+
+### R1.D18
+continiu CSS exersice
+
+### R1.D19
+start new markup project + zar-marathon2
+
+### R1.D20
+zar-marathon2 task 2 + css
