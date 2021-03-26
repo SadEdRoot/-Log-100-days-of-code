@@ -62,3 +62,13 @@ start new markup project + zar-marathon2
 
 ### R1.D20
 zar-marathon2 task 2 + css
+
+### R1.D21
+small landing for portfolio.
+
+### R1.D22
+add store to frostgrave
+
+### R1.D23
+split big components.
+
