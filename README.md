@@ -72,3 +72,8 @@ add store to frostgrave
 ### R1.D23
 split big components.
 
+### R1.D24
+add new structure, add some storege mutation.
+
+### R1.D25
+refactor apprint components
